@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    box-sizing: content-box;
+    border: solid 5px gainsboro;
+    margin: 40px 80px 100px;
+    
+}
+nav {
+    text-align-last: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+  
+}
+h1 {
+    text-align: center; /* alineacion*/ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* tipografia*/
+    font-size: xxx-large ;/* tamaño de la letra*/ 
+
+}
+article p {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: larger;
+}
+h2 {
+    text-align: center; /* alineacion*/ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* tipografia*/
+    font-size: large ; /* tamaño de la letra*/ 
+
+}
+figure { text-align: center; /* alineacion*/  
+}
+
+h3 {
+    text-align: left; /* alineacion*/ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* tipografia*/
+    font-size: large ;/* tamaño de la letra*/
+    margin-left: 10%;
+    margin-right: 10%;
+}
+ul {
+    text-align: left; /* alineacion*/ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* tipografia*/
+    font-size: large ;/* tamaño de la letra*/
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h4 {
+    text-align: left; /* alineacion*/ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* tipografia*/
+    font-size: large ;/* tamaño de la letra*/
+    margin-left: 10%;
+    margin-right: 10%;
+}
+ol {
+    text-align: left; /* alineacion*/ 
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: large ;/* tamaño de la letra*/
+}
